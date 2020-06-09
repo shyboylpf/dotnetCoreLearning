@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetCoreLearning", "dotne
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartupDemo", "StartupDemo\StartupDemo.csproj", "{54BF6640-E887-4074-A29C-B33CB712C295}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjectionDemo", "DependencyInjectionDemo\DependencyInjectionDemo.csproj", "{67005E3F-F640-4DDB-9136-2A4328CD7514}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{54BF6640-E887-4074-A29C-B33CB712C295}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54BF6640-E887-4074-A29C-B33CB712C295}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54BF6640-E887-4074-A29C-B33CB712C295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67005E3F-F640-4DDB-9136-2A4328CD7514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67005E3F-F640-4DDB-9136-2A4328CD7514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67005E3F-F640-4DDB-9136-2A4328CD7514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67005E3F-F640-4DDB-9136-2A4328CD7514}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
